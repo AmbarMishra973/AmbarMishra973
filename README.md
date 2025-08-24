@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Anonymous Dev Profile -->
 
-<!--
-**AmbarMishra973/AmbarMishra973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋</h1>
+<p align="center">Just another developer building things with Java, Spring Boot, and other backend magic 🛠️</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmbarMishra973&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbarMishra973&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 📫 Want to test my APIs?
+
+Use the provided Postman collection or try the live Swagger UI links in each repo.
+
+---
+
+<!-- Keep it clean and minimal -->
