@@ -7,6 +7,8 @@
 
 
 
+---
+
 ### ⚙️ GitHub Stats
 
 <p align="center">
@@ -15,6 +17,12 @@
 </p>
 
 ---
+
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AmbarMishra973&theme=github-dark&hide_border=true" />
+</p>
 
 ### 📫 Want to test my APIs?
 
