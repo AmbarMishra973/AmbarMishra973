@@ -5,6 +5,14 @@
 
 ---
 
+### 👨‍💻 About Me
+- 🔭 I’m currently working on mastering **Java & Spring Boot**  
+- 🌱 Learning **Microservices & System Design**  
+- 💡 Interested in **Open Source Contributions**  
+- 🎯 Goal: Become a **Backend Engineer at a top tech company**  
+
+---
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -16,9 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <!-- Spring Security -->
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
- <!-- Microservices -->
+  <!-- Microservices -->
   <img src="https://img.icons8.com/ios/50/services--v1.png" alt="Microservices" width="50" height="50"/>
- <!-- REST API -->
+   <!-- REST API -->
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
@@ -47,8 +55,17 @@
   <img src="https://streak-stats.demolab.com/?user=AmbarMishra973&theme=github-dark&hide_border=true" />
 </p>
 
+---
 
+
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmbarMishra973&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
+
 
 <!-- Keep it clean and minimal -->
