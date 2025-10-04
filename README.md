@@ -68,4 +68,3 @@
 ---
 
 
-<!-- Keep it clean and minimal -->
