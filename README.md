@@ -1,6 +1,6 @@
 <!-- Anonymous Developer Profile -->
 
-<h1 align="center">Hi.. 👋</h1>
+<h1 align="center">Hi... 👋</h1>
 <p align="center">Just another developer building things with Java, Spring Boot, and other backend magic 🛠️</p>
 
 ---
